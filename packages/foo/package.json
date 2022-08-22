@@ -1,0 +1,9 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "release": "release-it --config ../../release-it.js --ci"
+  }
+}
