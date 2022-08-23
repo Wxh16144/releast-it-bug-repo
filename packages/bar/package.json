@@ -1,10 +1,10 @@
 {
-  "name": "bar",
+  "name": "@test/bar",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "release": "release-it --config ../../release-it.js --ci"
+    "release": "release-it --ci"
   },
   "dependencies": {
     "foo": "workspace:*"

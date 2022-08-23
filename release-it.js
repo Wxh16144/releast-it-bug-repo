@@ -3,7 +3,7 @@ module.exports = {
     commitMessage: 'release: ${version}',
     tagAnnotation: 'Release ${version}\n\n${changelog}',
     tagName: '${name}@${version}',
-    push: true,
+    push: false,
     pushRepo: 'origin',
   }
 }

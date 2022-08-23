@@ -4,6 +4,7 @@
   "private": true,
   "packageManager": "pnpm@7.0.0",
   "dependencies": {
+    "lodash-es": "^4.17.21",
     "release-it": "^15.3.0"
   }
 }
